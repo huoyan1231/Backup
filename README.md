@@ -1,5 +1,7 @@
 # Backup
 自用备份
+### Terraria
+1.3.5.3及以下depot编号（转自贴吧）
 ### Arcaea
 3.12.6c
 3.5.3c
